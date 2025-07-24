@@ -1,4 +1,5 @@
 Web-Based Simulation of a Wearable Sleep Monitoring and Therapeutic Device
+
 This project is a web-based simulation of the academic project, "Wearable Sleep Monitoring and Therapeutic Device". It demonstrates the core concept of analyzing real-time biometric data to detect sleep apnea events and trigger a simulated therapeutic response.
 
 Project Objective
